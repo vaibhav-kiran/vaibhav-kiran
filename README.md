@@ -1,82 +1,137 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-
-# Vaibhav Kiran
-
-<p>Biomedical Engineering student developing intelligent healthcare systems through Machine Learning, Medical Imaging, and Embedded Hardware.</p>
-
-<img src="https://raw.githubusercontent.com/vaibhav-kiran/vaibhav-kiran/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
+<!-- Name -->
+<h1 align="center" style="font-family:Georgia; font-weight:900; letter-spacing:4px;">
+VAIBHAV KIRAN
+</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhav-kiran&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kiran&theme=tokyonight&hide_border=true&layout=compact" />
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kiran&theme=tokyonight&hide_border=true" />
+Biomedical Engineering Student • AI & Medical Imaging • Device Prototyping
 </p>
 
 ---
 
-### 🛠️ Skills & Expertise
-
-<details>
-  <summary><b>Programming & AI/ML</b></summary>
-  <p align="center">
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"></a>
-  </p>
-</details>
-
-<details>
-  <summary><b>Hardware & Engineering Tools</b></summary>
-  <p align="center">
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
-    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"></a>
-    <a href="#"><img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-EF7C00?style=for-the-badge&logo=autodesk&logoColor=white"></a>
-    <a href="#"><img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white"></a>
-    <a href="#"><img alt="KiCad" src="https://img.shields.io/badge/KiCad-313131?style=for-the-badge&logo=kicad&logoColor=white"></a>
-  </p>
-</details>
-
-<details>
-  <summary><b>Medical Imaging & Data</b></summary>
-  <p align="center">
-    CT/MRI Segmentation | Anatomical Volume Extraction | 3D Slicer Workflows | Data Visualization
-  </p>
-</details>
-
----
-
-### 🚀 Key Projects
-
-| Project                         | Description                                                  | Domain                     |
-| ------------------------------- | ------------------------------------------------------------ | -------------------------- |
-| Infant Monitoring Prototype     | Designed temperature monitoring system with real-time alerts | Embedded biomedical system |
-| Fatigue Detection System        | Eye-pattern monitoring model to detect drowsiness            | Computer vision            |
-| Diabetes Prediction Tool        | Statistical model for early-risk estimation                  | ML on clinical dataset     |
-| Healthcare Graph Visualizations | Analysis of regional healthcare metric variations            | Data visualization         |
-| Acne Detection Tool             | Feature-based skin classification                            | Web + dataset processing   |
-
-**[➡️ See my full portfolio](https://vaibhav-kiran.web.app/)**
-
----
-
-### 📫 Get In Touch
-
+<!-- Links Section -->
 <p align="center">
-  <a href="mailto:vaibhavkiran.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vaibhavkiran.work@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/vaibhav-kiran-960b04268/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://vaibhav-kiran.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-kiran-960b04268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vaibhavkiran.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vaibhav-kiran/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
+  </a>
 </p>
 
+---
+
+<br>
+
+<!-- Typing Skill Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-kiran&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9c9c9c&size=25&center=true&vCenter=true&width=650&lines=Python+for+Healthcare+Analytics;Biomedical+Device+Prototyping;CT+and+MRI+Segmentation;OpenCV+Applications;TensorFlow+Model+Development;Fusion+360+Design+Workflows" />
+</p>
+
+---
+
+<br>
+
+## Technical Skills
+
+Programming:
+• Python, MATLAB, Embedded C
+• Object-oriented implementations and application-based scripting
+
+Machine Learning & AI:
+• Supervised classification and regression
+• TensorFlow and Keras model development
+• Tabular medical datasets (risk factors, clinical statistics)
+• Data preprocessing, feature engineering, evaluation metrics
+
+Computer Vision:
+• Image segmentation and preprocessing pipelines
+• OpenCV-based detection and tracking workflows
+• Filtering, transformations, ROI extraction
+
+Biomedical Imaging & Systems:
+• CT/MRI analysis using segmentation tools (3D Slicer)
+• Volume reconstruction and label extraction workflows
+• Signal acquisition and processing (temp, motion, pressure)
+
+Embedded Systems & IoT:
+• Arduino-based prototyping
+• Sensor integration (IMUs, temp sensors, pulse sensors)
+• Safety circuit design and real-time data logging
+
+Hardware & Instrumentation:
+• PCB layout with EAGLE/KiCad
+• Basic instrumentation—oscilloscope, multimeter, test rigs
+• Low-power embedded design principles
+
+Design & Product Development:
+• Fusion 360, SolidWorks
+• Rapid prototyping for enclosures, small systems
+• Mechanical fitment and ergonomic design
+
+Data & Visualization Tools:
+• Pandas, NumPy, Matplotlib, Seaborn
+• Dashboard-style data representation
+
+---
+
+<br>
+
+## Key Projects
+
+| Project                          | Description                                       | Tech Stack                 |
+| -------------------------------- | ------------------------------------------------- | -------------------------- |
+| Anti-Sleep Alert System          | Real-time fatigue detection with vibration alerts | OpenCV, Embedded Device    |
+| CT/MRI Segmentation Pipeline     | Volume extraction and labeling workflow           | Python, 3D Slicer          |
+| Supercapacitor Lab Automation    | Automated testing dashboard                       | Python, Instrument Control |
+| Neonatal Health Prototype        | Real-time body temperature monitoring             | Arduino, Safety Circuits   |
+| Medical Cost Analytics Dashboard | Visual breakdown of risk factors                  | Pandas, Matplotlib         |
+
+---
+
+<br>
+
+## Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kiran&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+<br>
+
+## Connect & Collaborate
+
+If you want to collaborate on:
+
+- Biomedical machine learning applications
+- Device prototyping
+- Healthcare analytics workflows
+- Academic projects
+
+Reach out here:
+
+📧 Email: **vaibhavkiran.work@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/vaibhav-kiran-960b04268/**  
+🌐 Portfolio: **https://vaibhav-kiran.web.app/**  
+🐙 GitHub: **https://github.com/vaibhav-kiran/**
+
+---
+
+<br>
+
+<p align="center" style="font-size:14px;color:gray;">
+Designed with purpose. Built with precision.
 </p>
