@@ -47,7 +47,7 @@ Biomedical Engineering Student • AI & Medical Imaging • Device Prototyping
 
 <br>
 
-## ⭐ Technical Skills
+## Technical Skills
 
 ### **Programming**
 
