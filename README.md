@@ -67,5 +67,4 @@
 ---
 
 <p align="center" style="font-size:14px;color:gray;">
-Minimal. Clean. Purpose-built.
-</p>
+
