@@ -47,7 +47,7 @@
 
 ---
 
-## ⚡ Skills (Short & Clean)
+## Skill Set
 
 **Programming:** Python, MATLAB, Embedded C  
 **AI/ML:** TensorFlow, Keras, Medical Analytics  
