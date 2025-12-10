@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kiran&theme=dark&hide_border=true"/>
